@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("CometBookmarksRoot.react",["CometClassicHomeLeftRailContainer.react","CometPlaceholder.react","CometProductAttributionContextProvider.react","FDSListCellGlimmer.react","react"],(function(a,b,c,d,e,f,g){"use strict";var h,i=h||d("react");function a(a){return i.jsx(c("CometPlaceholder.react"),{fallback:i.jsx(c("FDSListCellGlimmer.react"),{imageSize:36,imageStyle:"roundedRect",numberOfItems:9}),children:i.jsx("div",{className:"x1y1aw1k",children:i.jsx(c("CometProductAttributionContextProvider.react"),{value:"more",children:i.jsx(c("CometClassicHomeLeftRailContainer.react"),{leftRailContainerQueryReference:a.queries.menuContainerQueryReference})})})})}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);

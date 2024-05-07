@@ -56,7 +56,7 @@ const Home = () => (
 
   </div>
   <br></br>
-  <br></br>
+  <br>c</br>
   <img src={flyerimg} className="col-lg-12 img-fluid rounded" ></img>
 
 
